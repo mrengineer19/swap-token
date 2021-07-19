@@ -7,6 +7,8 @@ Make .env file in root directory, copy variables from .env.example and set accor
 Create etherscan account to get dynamic ABI of tokens
 See [Etherscan API](https://etherscan.io/apis).
 
+To deploy it on ropsten network you must provide mnemonic of wallet/metamask account in ```.secret``` file of root folder. So just create ```.secret``` file and paste in it.
+
 Run following commands :
 
 ```
